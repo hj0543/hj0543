@@ -34,7 +34,4 @@
 
 ### 📬 Contact Me
 
-<p align="left">
-  <a href="mailto:본인의이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://본인의블로그주소.com"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-</p>
+
