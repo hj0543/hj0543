@@ -13,8 +13,7 @@
 ---
 
 ### 🏆 Solved.ac Profile
-<a href="https://solved.ac/hj0543">
-  <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=hj0543" />
+<img src="http://mazandi.herokuapp.com/api?handle=hj0543&theme=warm" />
 </a>
 
 ### 🟢 My 3D Contributions
