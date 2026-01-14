@@ -6,7 +6,7 @@
 
 ---
 
-## 🎓 About Me
+## 🎓 Introduction
 * **Name:** Jeong Hyeonjin
 * **Career**
 *  2019.03 - 2021.06 : ROK Army, First Lieutenant
@@ -16,7 +16,7 @@
 
 ---
 
-### 🌌 My 3D Contributions (Dark Gradient)
+### 🌌 My Grass Garden
 ![3D Grass Wave](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
