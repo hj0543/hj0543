@@ -17,7 +17,7 @@
 </a>
 
 ### 🟢 My 3D Contributions
-![3D Grass Night View](./profile-3d-contrib/profile-night-view.svg)
+![3D Grass Wave](./profile-3d-contrib/profile-wave.svg)
 
 ---
 
