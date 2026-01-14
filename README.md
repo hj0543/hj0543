@@ -12,7 +12,7 @@
 ---
 
 ### 🏆 Solved.ac Profile
-[![Solved.ac Profile](https://mazassumnida.vercel.app/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
+<img src="http://mazandi.herokuapp.com/api?handle=hj0543&theme=dark" />
 
 ### 🌌 My 3D Contributions (Dark Gradient)
 ![3D Grass Wave](./profile-3d-contrib/profile-night-rainbow.svg)
