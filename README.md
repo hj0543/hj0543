@@ -1,11 +1,11 @@
-# ☁️ Haneul's Record: From Command to Code
+# ☁️ Code Haneul
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Code%20Haneul&fontSize=70" />
 </div>
 
 ## 🎓 Introduction
-> **"단순한 구현을 넘어, 문제의 본질을 해결하는 개발자 정현진입니다."**
+> **""**
 
 저는 화력운용장교로서의 **책임감**과 학원 팀장으로서의 **시스템 운영 경험**을 갖추고 있습니다. 
 이제 SSAFY에서 더 견고하고 효율적인 코드를 설계하는 개발자로 성장하고 있습니다.
