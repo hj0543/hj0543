@@ -35,6 +35,16 @@
 ### 🌌 My Grass Garden
 ![3D Grass Wave](./profile-3d-contrib/profile-night-rainbow.svg)
 
+---
+
+### 🐍 Snake Eating My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hj0543/hj0543/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hj0543/hj0543/output/github-snake.svg">
+</picture>
+
+---
+
 ### 🏆 Solved.ac Profile
 <img src="http://mazandi.herokuapp.com/api?handle=hj0543&theme=dark" />
 
