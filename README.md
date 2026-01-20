@@ -9,7 +9,7 @@
   #### 코딩공부 since 25. 12. 01 == 코린이...
 
 * **Career**
-  * 🎖️ **ROK Army (2019.03 - 2021.06)** : 육군 중위 전역
+  * 🎖️ **ROK Army (2019.03 - 2021.06)** : 육군 중위 전역 - 일일 비사격훈련 좌표생성 프로그램 개발
   * 🏫 **Math Academy (2021.07 - 2023.05)** : 수학학원 강사
   * 🏫 **Math Academy (2023.10 - 2025.12)** : 수학학원 팀장 - 학원 관리 시스템 기획 및 운영(Google Sheets + Apps script)
   * 🏫 **SSAFY 15th (2026.01 - ing)** : Gumi Campus, Python track
