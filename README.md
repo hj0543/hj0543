@@ -12,7 +12,7 @@
 </a>
 
 * **Career**
-  * 🎖️ **ROK Army (2019.03 - 2021.06)** : 육군 중위 전역 - 일일 비사격훈련 엑셀기반 프로그램 개발
+  * 🎖️ **ROK Army (2019.03 - 2021.06)** : 육군 중위 전역 - 엑셀기반 일일 비사격훈련 프로그램 개발
   * 🏫 **Math Academy (2021.07 - 2023.05)** : 수학학원 강사
   * 🏫 **Math Academy (2023.10 - 2025.12)** : 수학학원 팀장 - 학원 관리 시스템 기획 및 운영(Google Sheets + Apps script)
   * 🏫 **SSAFY 15th (2026.01 - ing)** : Gumi Campus, Python track
@@ -20,15 +20,16 @@
 ---
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dracula) [![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://skillicons.dev) 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hj0543&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hj0543&show_icons=true&theme=dracula) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dracula)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0543)](https://solved.ac/hj0543)
+
+
 
 ---
 ## 🌌 My Grass Garden
