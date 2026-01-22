@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hj0543&layout=compact&theme=dracula) [![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://skillicons.dev) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hj0543&cache_seconds=1800) [![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://skillicons.dev) 
 
 ---
 
