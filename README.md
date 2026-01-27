@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Coding_Journey-Since_Dec_1,_2025-blue?style=for-the-badge&logo=github&logoColor=white">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91F7&width=435&lines=System.out.println(%22Hello+World!%22);Coding+Study+Since+2025.+12.+01;Prove+Yourself!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91F7&width=435&lines=Simple+is+better+than+complex;Keep+it+simple%2C+stupid;Prove+Yourself!" alt="Typing SVG" />
 </a>
 
 * **Career**
