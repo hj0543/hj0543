@@ -32,7 +32,7 @@ class Developer:
 * 
 
 🎖️ **활동내역**
-* Monthly Member(1월, 3월)
+* Monthly Member(1월, 3월, 8월)
 * 
 
 
