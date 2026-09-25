@@ -50,7 +50,7 @@ class Developer:
 ---
 
 ### 🚀 Projects & Tech Milestones
-* **금융특화 프로젝트**(2026.08 - ing)
+* **금융특화 프로젝트**(2026.08 - 2026.09)
     * `Role`: 팀장/백엔드
     * `Tech Stack`: Springboot, 
     * `Result`: 
@@ -66,7 +66,8 @@ class Developer:
     * `Tech Stack`: Vue.js, JavaScript, Pinia, Axios, Django REST Framework, SQLite
     * `Result`: 사용자 예산과 선호 조건을 반영한 부동산 추천 및 대출 시뮬레이션 기능 구현
 
-* **알고리즘 스터디 디스코드 봇 개발** (2026.01 - 2026.03) - Full stack
+* **알고리즘 스터디 디스코드 봇 개발** (2026.01 - 2026.03)
+    * `Role`: Full stack
     * `Tech Stack`: Python, discord.py, Oracle Cloud Infrastructure
     * `Result`: 문제 선정과 풀이 확인을 자동화하여 일일 운영 시간을 평균 2분에서 30초로 단축
     
