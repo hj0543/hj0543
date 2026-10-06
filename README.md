@@ -29,7 +29,7 @@ class Developer:
 
 🏆 **수상내역**
 * 1학기 성적최우수(1st)
-* 
+* 특화프로젝트 2등(PM, BE) - 팀장, 발표
 
 🎖️ **활동내역**
 * Monthly Member(1월, 3월, 8월)
@@ -78,16 +78,7 @@ class Developer:
 
 ### 📚 Continuous Learning (Licenses)
 
-```json
-{
-  "Certified": [],
-  "In_Progress": {
-    "Data": ["SQLD"],
-    "General": ["정보처리기사(필기 합격)"],
-    "AI": ["AICE"]
-  }
-}
-```
+
 
 ---
 
