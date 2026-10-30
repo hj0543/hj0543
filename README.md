@@ -122,14 +122,14 @@
 **Familiar with**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,spring,js,ts,react,vue,django,mysql,html,css,bootstrap,git&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Cspring%2Cjs%2Cts%2Creact%2Cvue%2Cdjango%2Cmysql%2Chtml%2Ccss%2Cbootstrap%2Cgit&theme=dark">
   <img src="https://skillicons.dev/icons?i=py,java,spring,js,ts,react,vue,django,mysql,html,css,bootstrap,git&theme=light" alt="Python, Java, Spring, JavaScript, TypeScript, React, Vue, Django, MySQL, HTML, CSS, Bootstrap, Git" />
 </picture>
 
 **Now studying**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,threejs&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi%2Cthreejs&theme=dark">
   <img src="https://skillicons.dev/icons?i=fastapi,threejs&theme=light" alt="FastAPI, Three.js" />
 </picture>
 
