@@ -25,8 +25,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # 생성될 파일 목록 설정 (기본 버전과 다크모드 버전)
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#244b3a
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a8c5a0
         env:
           # 깃허브 토큰 사용 (별도 설정 필요 없음)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
