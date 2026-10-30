@@ -13,10 +13,6 @@
   <a href="mailto:hj0543@gmail.com"><img src="https://img.shields.io/badge/Gmail-hj0543-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
   <br />
-  <img src="https://img.shields.io/badge/SSAFY_%ED%8A%B9%ED%99%94_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B0%EC%88%98%EC%83%81_2%EB%93%B1-244B3A?style=flat-square" alt="SSAFY 특화 프로젝트 우수상 2등" />
-  <img src="https://img.shields.io/badge/SSAFY_1%ED%95%99%EA%B8%B0-%EC%84%B1%EC%A0%81%EC%9A%B0%EC%88%98%EC%83%81_1%EC%9C%84-244B3A?style=flat-square" alt="SSAFY 1학기 성적우수상 1위" />
-  <img src="https://img.shields.io/badge/%EC%9D%B4%EB%8B%AC%EC%9D%98_%EC%9A%B0%EC%88%98_%EA%B5%90%EC%9C%A1%EC%83%9D-3%ED%9A%8C-56635B?style=flat-square" alt="이달의 우수 교육생 3회" />
-  <img src="https://img.shields.io/badge/%EC%82%BC%EC%84%B1_SW_%EC%97%AD%EB%9F%89-A%2B_(Python)-56635B?style=flat-square" alt="삼성 SW 역량 A+ (Python)" />
   <img src="https://img.shields.io/badge/Coding_Journey-Since_2026.01.18-7A9A6E?style=flat-square&logo=github&logoColor=white" alt="Coding Journey since 2026.01.18" />
 </div>
 
@@ -30,16 +26,14 @@
       <a href="https://hj0543.github.io/projects/dodam/"><img src="./assets/projects/dodam.jpg" width="100%" alt="도담 앱 화면" /></a>
       <h3><a href="https://hj0543.github.io/projects/dodam/">도담</a> 🏆</h3>
       <sub><b>2026.08 – 09 · 팀장·PM / 백엔드 · 5인</b></sub>
-      <p>목표 달성일과 행동별 효과를 비교하는 금융 코치. 진단 → 행동 비교 → AI 상담 → 목표별 금액 배정 흐름을 설계하고, 진단·추천·시뮬레이션 엔진과 시계열 소비 예측·세이프박스를 구현했습니다.</p>
-      <sub>🏆 SSAFY 특화 프로젝트 우수상(2등) · 212개 API 중 118개 구현</sub><br />
+      <p>금융 목표 달성에 필요한 행동을 비교하고 실행하도록 돕는 개인 금융 코치</p>
       <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=light" height="28" alt="Java, Spring, MySQL, Redis" />
     </td>
     <td width="50%" valign="top">
       <a href="https://hj0543.github.io/projects/geomate/"><img src="./assets/projects/geomate.jpg" width="100%" alt="GEOMATE 태블릿 화면" /></a>
       <h3><a href="https://hj0543.github.io/projects/geomate/">GEOMATE</a></h3>
       <sub><b>2026.10 – 진행 중 · 팀장·PM / FE · AI · 6인</b></sub>
-      <p>도형 조작과 단계형 힌트로 다음 시도를 돕는 기하 학습 앱. 학원 현장과 자체 설문(응답자 92명)으로 '무엇을 시도할지 모름'을 문제로 정의하고, 기하 엔진·힌트·사진 해석 PoC를 구현했습니다.</p>
-      <sub>팀 앱 개발 중 · 학습 효과는 후속 검증</sub><br />
+      <p>도형의 관계를 이해하기 어려운 학생을 위한 기하 학습 서비스</p>
       <img src="https://skillicons.dev/icons?i=react,ts,threejs,py,fastapi&theme=light" height="28" alt="React, TypeScript, Three.js, Python, FastAPI" />
     </td>
   </tr>
@@ -48,14 +42,14 @@
       <a href="https://hj0543.github.io/projects/ait/"><img src="./assets/projects/ait.jpg" width="100%" alt="Ait 화면" /></a>
       <h3><a href="https://hj0543.github.io/projects/ait/">Ait</a></h3>
       <sub><b>2026.07 – 08 · 프론트엔드 리더 · 6인</b></sub>
-      <p>AI 모의면접과 화상 면접 스터디 통합 플랫폼. UI 구조를 설계해 면접·스터디 화면을 구현하고, 면접 상태 5단계와 화면 표시 기준을 팀 공통 문서로 남겼습니다.</p>
+      <p>GitHub 연동을 기반으로 한 AI 면접 훈련 플랫폼</p>
       <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind&theme=light" height="28" alt="React, TypeScript, Vite, Tailwind CSS" />
     </td>
     <td width="50%" valign="top">
       <a href="https://hj0543.github.io/projects/homefit/"><img src="./assets/projects/homefit.jpg" width="100%" alt="Homefit 화면" /></a>
       <h3><a href="https://hj0543.github.io/projects/homefit/">Homefit</a></h3>
       <sub><b>2026.05 – 06 · 풀스택 · 2인</b></sub>
-      <p>매물과 주변 환경, 대출 부담을 함께 비교하는 주거 탐색 서비스. 지도 검색 → 관심 매물 비교 → 대출 시뮬레이션 흐름과 공공데이터 수집·전처리·적재를 맡았습니다.</p>
+      <p>개인 금융상황·선호도 기반 부동산 추천 서비스</p>
       <img src="https://skillicons.dev/icons?i=vue,js,django,fastapi&theme=light" height="28" alt="Vue, JavaScript, Django, FastAPI" />
     </td>
   </tr>
@@ -64,7 +58,7 @@
       <a href="https://hj0543.github.io/projects/discord-study-bot/"><img src="./assets/projects/discord-study-bot.jpg" width="100%" alt="스터디 봇 화면" /></a>
       <h3><a href="https://hj0543.github.io/projects/discord-study-bot/">알고리즘 스터디 봇</a></h3>
       <sub><b>2026.02 – 04 · 1인 기획·개발·운영</b></sub>
-      <p>직접 운영한 8인 스터디의 공지 작성·문제 추천·풀이 확인·집계를 명령어와 알림으로 자동화했습니다. 백준 서비스 종료로 2026.04 운영 종료.</p>
+      <p>알고리즘 스터디 운영 자동화 디스코드 봇</p>
       <img src="https://skillicons.dev/icons?i=py,discord,githubactions&theme=light" height="28" alt="Python, Discord, GitHub Actions" />
     </td>
     <td width="50%" valign="middle" align="center">
@@ -108,7 +102,6 @@
 #### 📚 Licenses
 * `2026.03.06` **SAMSUNG SW Competency Test - Grade A+ (Python)** 🏆
 * **정보처리기사** 필기 합격 · **워드프로세서** 2급
-* 🎓 금오공과대학교 신소재공학부 (Materials Engineering)
 
 ---
 
@@ -119,15 +112,15 @@
 **Familiar with**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Cspring%2Cjs%2Cts%2Creact%2Cvue%2Cdjango%2Cmysql%2Chtml%2Ccss%2Cbootstrap%2Cgit&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,java,spring,js,ts,react,vue,django,mysql,html,css,bootstrap,git&theme=light" alt="Python, Java, Spring, JavaScript, TypeScript, React, Vue, Django, MySQL, HTML, CSS, Bootstrap, Git" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cts%2Creact%2Cvue%2Cdjango%2Cmysql%2Chtml%2Ccss%2Cbootstrap%2Cgit&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,vue,django,mysql,html,css,bootstrap,git&theme=light" alt="Python, JavaScript, TypeScript, React, Vue, Django, MySQL, HTML, CSS, Bootstrap, Git" />
 </picture>
 
 **Now studying**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi%2Cthreejs&theme=dark">
-  <img src="https://skillicons.dev/icons?i=fastapi,threejs&theme=light" alt="FastAPI, Three.js" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cfastapi%2Cthreejs&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,spring,fastapi,threejs&theme=light" alt="Java, Spring, FastAPI, Three.js" />
 </picture>
 
 <br /><br />
