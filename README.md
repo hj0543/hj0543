@@ -8,13 +8,12 @@
 
   <p><b>현장에서 막히는 지점을 찾아, 흐름과 정책을 설계해 작동하는 서비스로 만듭니다.</b></p>
 
-  <a href="https://hj0543.github.io"><img src="https://img.shields.io/badge/Blog-hj0543.github.io-244B3A?style=for-the-badge&logo=githubpages&logoColor=white" alt="블로그" /></a>
+  <a href="https://hj0543.github.io"><img src="https://img.shields.io/badge/Blog-hj0543.github.io-244B3A?style=for-the-badge&logo=github&logoColor=white" alt="블로그" /></a>
   <a href="https://hj0543.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B8%B0%ED%9A%8D-56635B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="서비스 기획 포트폴리오" /></a>
   <a href="https://hj0543.github.io/devlog/"><img src="https://img.shields.io/badge/Devlog-%ED%9A%8C%EA%B3%A0%C2%B7%EA%B8%B0%EC%88%A0_%EA%B8%80-7A9A6E?style=for-the-badge&logo=markdown&logoColor=white" alt="회고·기술 글" /></a>
   <a href="mailto:hj0543@gmail.com"><img src="https://img.shields.io/badge/Gmail-hj0543-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-  <br /><br />
-
+  <br />
   <img src="https://img.shields.io/badge/SSAFY_%ED%8A%B9%ED%99%94_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B0%EC%88%98%EC%83%81_2%EB%93%B1-244B3A?style=flat-square" alt="SSAFY 특화 프로젝트 우수상 2등" />
   <img src="https://img.shields.io/badge/SSAFY_1%ED%95%99%EA%B8%B0-%EC%84%B1%EC%A0%81%EC%9A%B0%EC%88%98%EC%83%81_1%EC%9C%84-244B3A?style=flat-square" alt="SSAFY 1학기 성적우수상 1위" />
   <img src="https://img.shields.io/badge/%EC%9D%B4%EB%8B%AC%EC%9D%98_%EC%9A%B0%EC%88%98_%EA%B5%90%EC%9C%A1%EC%83%9D-3%ED%9A%8C-56635B?style=flat-square" alt="이달의 우수 교육생 3회" />
@@ -72,7 +71,7 @@
     <td width="50%" valign="middle" align="center">
       <h3>📝 더 많은 이야기는 블로그에서</h3>
       <p>프로젝트별 결정 과정과 회고,<br />기술 문제 해결 기록을 정리하고 있습니다.</p>
-      <a href="https://hj0543.github.io"><img src="https://img.shields.io/badge/%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-hj0543.github.io-244B3A?style=for-the-badge&logo=githubpages&logoColor=white" alt="블로그 바로가기" /></a>
+      <a href="https://hj0543.github.io"><img src="https://img.shields.io/badge/%EB%B8%94%EB%A1%9C%EA%B7%B8_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-hj0543.github.io-244B3A?style=for-the-badge&logo=github&logoColor=white" alt="블로그 바로가기" /></a>
       <br /><br />
       <a href="https://hj0543.github.io/portfolio/"><img src="https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B3%B4%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B8%B0%ED%9A%8D-56635B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="포트폴리오 보기" /></a>
     </td>
