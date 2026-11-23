@@ -32,8 +32,8 @@
     <td width="50%" valign="top">
       <a href="https://hj0543.github.io/projects/geomate/"><img src="./assets/projects/geomate.jpg" width="100%" alt="GEOMATE 태블릿 화면" /></a>
       <h3><a href="https://hj0543.github.io/projects/geomate/">GEOMATE</a></h3>
-      <sub><b>2026.10 – 진행 중 · 팀장·PM / FE · AI · 6인</b></sub>
-      <p>도형의 관계를 이해하기 어려운 학생을 위한 기하 학습 서비스</p>
+      <sub><b>2026.10 – 2026.11 · 팀장·PM / FE · AI · 6인</b></sub>
+      <p>도형을 이해하기 어려운 학생을 위한 기하 학습 서비스</p>
       <img src="https://skillicons.dev/icons?i=react,ts,threejs,py,fastapi,java,spring,postgres&theme=light" height="28" alt="React, TypeScript, Three.js, Python, FastAPI, Java, Spring, PostgreSQL" />
     </td>
   </tr>
